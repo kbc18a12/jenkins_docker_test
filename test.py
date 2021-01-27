@@ -1,1 +1,1 @@
-print "Python Executed!!"
+print("Python Executed!!")
